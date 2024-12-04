@@ -1,0 +1,13 @@
+# numpy
+# pandas
+# matplotlib
+# langchain
+# python-dotenv
+# unstructured
+# tiktoken
+# faiss-cpu
+# libmagic
+# python-magic
+# python-magic-bin
+# OpenAI
+
